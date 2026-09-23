@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-09-23` |
+| **7** | 0 | 7 | 0 | `2026-09-23` |
 
 ---
 
@@ -22,6 +22,12 @@
 | 0004 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
 | 0005 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0006 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-4](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-4.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+
+### Design (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [Practice Classes And Objects](./Design/General/practice-classes-and-objects) | [JAVA](./Design/General/practice-classes-and-objects/solution.java) | ⚪ Unspecified | `General` | `2026-09-23` |
 
 ---
 
