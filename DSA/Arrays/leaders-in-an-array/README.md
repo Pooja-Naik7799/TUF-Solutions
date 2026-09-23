@@ -1,4 +1,4 @@
-# [Leaders in an Array](https://takeuforward.org/practice/dsa/leaders-in-an-array?source=planly&planly_plan=striving-sde&planly_task_id=6118923&planly_day_id=718867&planly_session_id=62789&tab=solution)
+# [Leaders in an Array](https://takeuforward.org/practice/dsa/leaders-in-an-array?source=planly&planly_plan=striving-sde&planly_task_id=6118923&planly_day_id=718867&planly_session_id=62789&tab=solution&solution=optimal)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
