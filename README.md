@@ -6,19 +6,20 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **3** | 0 | 3 | 0 | `2026-09-23` |
+| **4** | 0 | 4 | 0 | `2026-09-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (3)
+### DSA (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [SOLUTION-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
 | 0002 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-3](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
-| 0003 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
+| 0003 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [Solution-3](./DSA/Arrays/leaders-in-an-array/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+| 0004 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
 
 ---
 
