@@ -16,7 +16,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [3 Sum](./DSA/Arrays/3-sum) | [JAVA](./DSA/Arrays/3-sum/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
+| 0001 | [3 Sum](./DSA/Arrays/3-sum) | [JAVA](./DSA/Arrays/3-sum/solution.java) [Solution-5](./DSA/Arrays/3-sum/Solution-5.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
 | 0002 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [Solution-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
 | 0003 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-3](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0004 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [Solution-2](./DSA/Arrays/leaders-in-an-array/Solution-2.java) [Solution-3](./DSA/Arrays/leaders-in-an-array/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
