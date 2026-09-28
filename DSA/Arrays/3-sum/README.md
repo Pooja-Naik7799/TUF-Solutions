@@ -1,4 +1,4 @@
-# [3 Sum](https://takeuforward.org/practice/dsa/3-sum?source=planly&planly_plan=striving-sde&planly_task_id=6118951&planly_day_id=718869&planly_session_id=135694&subject=array)
+# [3 Sum](https://takeuforward.org/practice/dsa/3-sum?source=planly&planly_plan=striving-sde&planly_task_id=6118951&planly_day_id=718869&planly_session_id=135694&subject=array&solution=optimal)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
