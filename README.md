@@ -6,22 +6,23 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **7** | 0 | 7 | 0 | `2026-09-23` |
+| **8** | 1 | 7 | 0 | `2026-09-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [SOLUTION-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
+| 0001 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [Solution-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
 | 0002 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-3](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0003 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [Solution-2](./DSA/Arrays/leaders-in-an-array/Solution-2.java) [Solution-3](./DSA/Arrays/leaders-in-an-array/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0004 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
 | 0005 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0006 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-4](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-4.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+| 0007 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
 
 ### Design (1)
 
