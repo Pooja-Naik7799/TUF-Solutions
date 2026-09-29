@@ -1,4 +1,4 @@
-# [Search X in sorted array](https://takeuforward.org/practice/dsa/search-x-in-sorted-array?category=fundamentals&source=strivers-a2z-dsa-sheet)
+# [Search X in sorted array](https://takeuforward.org/practice/dsa/search-x-in-sorted-array?category=fundamentals&source=strivers-a2z-dsa-sheet&solution=recursive-solution)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
