@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **12** | 2 | 9 | 1 | `2026-09-30` |
+| **13** | 2 | 10 | 1 | `2026-09-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (11)
+### DSA (12)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -25,8 +25,9 @@
 | 0007 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
 | 0008 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0009 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-4](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-4.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
-| 0010 | [Search X in sorted array](./DSA/Beginner-Problems/search-x-in-sorted-array) | [JAVA](./DSA/Beginner-Problems/search-x-in-sorted-array/solution.java) [Solution-2](./DSA/Beginner-Problems/search-x-in-sorted-array/Solution-2.java) | 🟢 Easy | `Beginner-Problems` | `2026-09-29` |
+| 0010 | [Search X in sorted array](./DSA/Beginner-Problems/search-x-in-sorted-array) | [Solution-2](./DSA/Beginner-Problems/search-x-in-sorted-array/Solution-2.java) [JAVA](./DSA/Beginner-Problems/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-09-29` |
 | 0011 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
+| 0012 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 
 ### Design (1)
 
