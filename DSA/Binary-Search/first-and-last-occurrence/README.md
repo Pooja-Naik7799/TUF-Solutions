@@ -1,4 +1,4 @@
-# [First and last occurrence](https://takeuforward.org/practice/dsa/first-and-last-occurrence?category=logic-building&source=strivers-a2z-dsa-sheet&solution=using-bounds)
+# [First and last occurrence](https://takeuforward.org/practice/dsa/first-and-last-occurrence?source=strivers-a2z-dsa-sheet&category=logic-building&solution=binary-search)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
@@ -23,6 +23,10 @@ Input: nums = [5, 7, 7, 8, 8, 10], target = 6
 Output: [-1, -1]
 
 Expalantion:&nbsp;The target is 6, which is not present in the array. Therefore, the output is [-1, -1].
+
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
 
 Still unsure what the problem is asking ?
 

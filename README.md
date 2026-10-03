@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 3 | 12 | 1 | `2026-10-01` |
+| **16** | 3 | 12 | 1 | `2026-10-03` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0001 | [3 Sum](./DSA/Arrays/3-sum) | [Solution-5](./DSA/Arrays/3-sum/Solution-5.java) [JAVA](./DSA/Arrays/3-sum/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
 | 0002 | [4 Sum](./DSA/Arrays/4-sum) | [JAVA](./DSA/Arrays/4-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-09-28` |
 | 0003 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [Solution-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
-| 0004 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-01` |
+| 0004 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) [Solution-2](./DSA/Binary-Search/first-and-last-occurrence/Solution-2.java) | 🟡 Medium | `Binary-Search` | `2026-10-03` |
 | 0005 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 | 0006 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-3](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
 | 0007 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [Solution-2](./DSA/Arrays/leaders-in-an-array/Solution-2.java) [Solution-3](./DSA/Arrays/leaders-in-an-array/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
