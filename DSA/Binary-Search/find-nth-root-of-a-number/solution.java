@@ -5,9 +5,9 @@ class Solution {
             int mid=low+(high-low)/2;
             int midN=findSqrtN( mid, N,M);
             if(midN==1)return mid;
-           else  if(midN==0) low=mid+1;
+           else  if(midN==2)  high=mid-1;
            else
-           high=mid-1;
+         low=mid+1;
         }
         return -1;
     }
