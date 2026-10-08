@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **22** | 3 | 18 | 1 | `2026-10-06` |
+| **23** | 3 | 19 | 1 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (21)
+### DSA (22)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,21 +22,22 @@
 | 0004 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [Solution-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
 | 0005 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [JAVA](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-05` |
 | 0006 | [Find Out How Many Times The Array Is Rotated](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated) | [JAVA](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-05` |
-| 0007 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [Solution-2](./DSA/Binary-Search/first-and-last-occurrence/Solution-2.java) [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-03` |
-| 0008 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
-| 0009 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-3](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
-| 0010 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [Solution-2](./DSA/Arrays/leaders-in-an-array/Solution-2.java) [Solution-3](./DSA/Arrays/leaders-in-an-array/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
-| 0011 | [Lower Bound](./DSA/Binary-Search/lower-bound-) | [JAVA](./DSA/Binary-Search/lower-bound-/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
-| 0012 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
-| 0013 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
-| 0014 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-4](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-4.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
-| 0015 | [Search In Rotated Sorted Array 2](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-05` |
-| 0016 | [Search In Rotated Sorted Array I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-04` |
-| 0017 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
-| 0018 | [Search X in sorted array](./DSA/Beginner-Problems/search-x-in-sorted-array) | [Solution-2](./DSA/Beginner-Problems/search-x-in-sorted-array/Solution-2.java) [JAVA](./DSA/Beginner-Problems/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-09-29` |
-| 0019 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-06` |
-| 0020 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
-| 0021 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0007 | [Find square root of a number](./DSA/Binary-Search/find-square-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-square-root-of-a-number/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-08` |
+| 0008 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [Solution-2](./DSA/Binary-Search/first-and-last-occurrence/Solution-2.java) [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-03` |
+| 0009 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0010 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-3](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+| 0011 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [Solution-2](./DSA/Arrays/leaders-in-an-array/Solution-2.java) [Solution-3](./DSA/Arrays/leaders-in-an-array/Solution-3.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+| 0012 | [Lower Bound](./DSA/Binary-Search/lower-bound-) | [JAVA](./DSA/Binary-Search/lower-bound-/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0013 | [Majority Element-I](./DSA/General/majority-element-i) | [Solution-4](./DSA/General/majority-element-i/Solution-4.java) | 🟡 Medium | `General` | `2026-09-23` |
+| 0014 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+| 0015 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-4](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-4.java) | 🟡 Medium | `Arrays` | `2026-09-23` |
+| 0016 | [Search In Rotated Sorted Array 2](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-05` |
+| 0017 | [Search In Rotated Sorted Array I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-04` |
+| 0018 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
+| 0019 | [Search X in sorted array](./DSA/Beginner-Problems/search-x-in-sorted-array) | [Solution-2](./DSA/Beginner-Problems/search-x-in-sorted-array/Solution-2.java) [JAVA](./DSA/Beginner-Problems/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-09-29` |
+| 0020 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-06` |
+| 0021 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
+| 0022 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 
 ### Design (1)
 
