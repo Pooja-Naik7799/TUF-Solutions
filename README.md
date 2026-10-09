@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **26** | 3 | 21 | 2 | `2026-10-08` |
+| **27** | 3 | 22 | 2 | `2026-10-09` |
 
 ---
 
@@ -42,11 +42,12 @@
 | 0024 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
 | 0025 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 
-### Design (1)
+### Design (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Practice Classes And Objects](./Design/General/practice-classes-and-objects) | [JAVA](./Design/General/practice-classes-and-objects/solution.java) | ⚪ Unspecified | `General` | `2026-09-23` |
+| 0001 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [JAVA](./Design/Introduction-To-Oops/practice-attributes-and-methods/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-10-09` |
+| 0002 | [Practice Classes And Objects](./Design/General/practice-classes-and-objects) | [JAVA](./Design/General/practice-classes-and-objects/solution.java) | ⚪ Unspecified | `General` | `2026-09-23` |
 
 ---
 
