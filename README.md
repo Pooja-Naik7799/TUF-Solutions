@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | 3 | 22 | 6 | `2026-10-13` |
+| **32** | 3 | 22 | 7 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (29)
+### DSA (30)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -43,8 +43,9 @@
 | 0025 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
 | 0026 | [Search X in sorted array](./DSA/Beginner-Problems/search-x-in-sorted-array) | [Solution-2](./DSA/Beginner-Problems/search-x-in-sorted-array/Solution-2.java) [JAVA](./DSA/Beginner-Problems/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-09-29` |
 | 0027 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-06` |
-| 0028 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
-| 0029 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0028 | [Split array - largest sum](./DSA/Binary-Search/split-array---largest-sum) | [JAVA](./DSA/Binary-Search/split-array---largest-sum/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-13` |
+| 0029 | [Two Sum](./DSA/Arrays/two-sum) | [Solution-4](./DSA/Arrays/two-sum/Solution-4.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
+| 0030 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 
 ### Design (2)
 
