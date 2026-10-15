@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **32** | 3 | 22 | 7 | `2026-10-13` |
+| **32** | 3 | 22 | 7 | `2026-10-15` |
 
 ---
 
@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [3 Sum](./DSA/Arrays/3-sum) | [Solution-5](./DSA/Arrays/3-sum/Solution-5.java) [JAVA](./DSA/Arrays/3-sum/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
 | 0002 | [4 Sum](./DSA/Arrays/4-sum) | [JAVA](./DSA/Arrays/4-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-09-28` |
-| 0003 | [Book Allocation Problem](./DSA/Binary-Search/book-allocation-problem) | [JAVA](./DSA/Binary-Search/book-allocation-problem/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-13` |
+| 0003 | [Book Allocation Problem](./DSA/Binary-Search/book-allocation-problem) | [JAVA](./DSA/Binary-Search/book-allocation-problem/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
 | 0004 | [Capacity to Ship Packages Within D Days](./DSA/Binary-Search/capacity-to-ship-packages-within-d-days) | [JAVA](./DSA/Binary-Search/capacity-to-ship-packages-within-d-days/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-12` |
 | 0005 | [Count Occurrences in a Sorted Array](./DSA/Binary-Search/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Binary-Search/count-occurrences-in-a-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-06` |
 | 0006 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [Solution-2](./DSA/Hashing/count-subarrays-with-given-sum/Solution-2.java) | 🟡 Medium | `Hashing` | `-` |
